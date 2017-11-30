@@ -6,13 +6,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Meliss
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Grinch', 4, 'M', 'green', 'sad, very sad', 0)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('Wendy', 4, 'F', 'brown', 'content', 1)
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ('', 4, 'M', 'brown', 'calm', 0)
-
-
-Mr. Chocolate
-Rowdy
-Tabitha
-Sergeant Brown
-Melissa
-Grinch
-Wendy
-unnamed (the bear that killed Tim didn't have a name; refer back to how to create a record that doesn't have one value)
